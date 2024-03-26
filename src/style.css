@@ -1,0 +1,4 @@
+@import '@hilla/react-components/css/lumo/Color.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
